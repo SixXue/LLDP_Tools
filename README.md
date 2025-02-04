@@ -11,11 +11,11 @@
 ##  展示
 
       *主界面
-          ![Image text](images/主界面.png)
+          ![image text](images/主界面.png)
           
           
       *报文捕获数据界面
-          ![Image](images/捕获界面.png)
+          ![image](images/捕获界面.png)
 
           ![image](https://github.com/user-attachments/assets/71c487ab-db1a-432f-b137-151f042300a3)
 
