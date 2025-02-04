@@ -16,6 +16,6 @@
           
 ##                  报文捕获数据界面
 
-![Image text](https://github.com/SixXue/PingTools/blob/main/photos/PingTools.png)
+![Image text](https://github.com/SixXue/LLDP_Tools/blob/main/images/Capture%20Window.png)
 
           
