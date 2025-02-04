@@ -10,13 +10,13 @@
         
 ##  展示
 
-      *主界面
-          ![Image text](https://github.com/SixXue/PingTools/blob/main/photos/PingTools.png)
+      主界面
+![image](https://github.com/SixXue/LLDP_Tools/blob/main/images/MainWindow.png)
           
           
-      *报文捕获数据界面
+      报文捕获数据界面
           ![image](images/捕获界面.png)
 
-          ![image](https://github.com/user-attachments/assets/71c487ab-db1a-432f-b137-151f042300a3)
+![Image text](https://github.com/SixXue/PingTools/blob/main/photos/PingTools.png)
 
           
