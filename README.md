@@ -8,7 +8,7 @@
         *3、读取到的数值存储到列表中，并实时更新获取到的的数值。
         
 ##  展示
-      主界面
-          ![image]https://github.com/SixXue/-/blob/main/images/主界面.png
-  报文捕获数据界面
-          ![image]https://github.com/SixXue/-/blob/main/images/捕获界面.png
+      *主界面
+          ![image](https://github.com/SixXue/-/blob/main/images/主界面.png)
+      *报文捕获数据界面
+          ![image](https://github.com/SixXue/-/blob/main/images/捕获界面.png)
