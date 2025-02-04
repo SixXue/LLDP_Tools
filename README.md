@@ -11,7 +11,7 @@
 ##  展示
 
       *主界面
-          ![image text](images/主界面.png)
+          ![Image text](https://github.com/SixXue/PingTools/blob/main/photos/PingTools.png)
           
           
       *报文捕获数据界面
